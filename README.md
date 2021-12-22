@@ -5,7 +5,7 @@
 const thai = {
   code: [Javascript, HTML, CSS],
   tools: [GIT, Github, Boostrap],
-  askMeAbout: [web dev, tech, app dev, music, gaming, chris cornell] 
+  askMeAbout: [web dev, tech, app dev, music, gaming] 
 }
 ```
 <h3>💻 About Me </h3>
