@@ -2,7 +2,7 @@
  <h2> Front end developer in progress</h2>
  
 ```js
-const thai = {
+const samuel = {
   code: [Javascript, HTML, CSS],
   tools: [GIT, Github, Boostrap],
   askMeAbout: [web dev, tech, app dev, music, gaming] 
