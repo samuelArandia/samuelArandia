@@ -4,7 +4,7 @@
 ```js
 const samuel = {
   code: [Javascript, HTML, CSS],
-  tools: [GIT, Github, Boostrap],
+  tools: [Vuejs, GIT, Github, Boostrap],
   askMeAbout: [web dev, tech, app dev, music, gaming] 
 }
 ```
