@@ -2,11 +2,12 @@
  <h2> Front end developer in progress</h2>
  
 ```js
-const samuel = {
-  code: [Javascript, HTML, CSS],
-  tools: [Vuejs, GIT, Github, Boostrap, Pug],
-  askMeAbout: [web dev, tech, app dev, music, gaming] 
-}
+const samuelArandia = {
+  pronouns: "he/him",
+  languages: ["Spanish", "English"],
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["Vuej", "Node.js"],
+};
 ```
 <h3>💻 About Me </h3>
 
