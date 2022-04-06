@@ -1,14 +1,12 @@
 ### Hi, I'm Samuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <h2> Front end developer in progress</h2>
  
-```js
-const samuelArandia = {
-  pronouns: "he/him",
-  languages: ["Spanish", "English"],
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["Vuej", "Node.js"],
-};
-```
+### My skills
+
+- **Languages →** HTML, CSS, SCSS, JavaScript, Python.
+- **Libraries & Frameworks →** Vue.js.
+- **Tools & Platforms →** Git, Firebase, VsCode.
+ 
 <h3>💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
