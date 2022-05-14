@@ -4,8 +4,8 @@
 ### My skills
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, Python.
-- **Libraries & Frameworks →** Vue.js.
-- **Tools & Platforms →** Git, Firebase, VsCode.
+- **Libraries & Frameworks →** Vue.js, Django, Django Rest 
+- **Tools & Platforms →** Git, Firebase, VsCode
  
 <h3>💻 About Me </h3>
 
