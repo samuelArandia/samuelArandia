@@ -1,4 +1,4 @@
-### Hi, I'm Samuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Samuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
  <h2> Front end developer in progress</h2>
  
 ### My skills
