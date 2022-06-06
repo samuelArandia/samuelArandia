@@ -1,19 +1,17 @@
-### Hi, I'm Samuel, I am a systems analysis and programming technician <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="20px">
- <h2> Front end developer</h2>
+### Hi, I'm Samuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="20px">
+ <h2>I am a systems analysis and programming technician  and Frontend developer</h2>
  
-### My skills
+### My skills ⚡
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, Python.
-- **Libraries & Frameworks →** Vue.js, Django, Django Rest 
-- **Tools & Platforms →** Git, Firebase, VsCode, Pug, Vuetify, Boostrap
+- **Libraries & Frameworks →** Vue.js, Django, Django Rest.
+- **Tools & Platforms →** Git, Firebase, VsCode, Pug, Vuetify, Boostrap.
  
 <h3>💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; I keep myself in constant learning.
-
-- 🌱 &nbsp; Learning about web development.
 
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
