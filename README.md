@@ -28,7 +28,7 @@
     <img align="left" alt="Samuel Arandia| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/samuela.arandia/">
-    <img align="left" alt="Samuel Arandia | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/facebook.svg" />
+    <img align="left" alt="Samuel Arandia | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Facebook.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:samuelarandia@gmail.com">
     <img align="left" alt="Samuel Arandia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
