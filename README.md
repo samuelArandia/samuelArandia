@@ -17,11 +17,22 @@
 
 ## 📫 You can find me too:
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/samuel-arandia)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" />](https://twitter.com/arandia_samuel)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" />](https://instagram.com/samuel_arandia)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/facebook.png" height="40em" align="center" />](https://facebook.com/samuel.arandia)
 
+  <a href="https://www.linkedin.com/in/samuel-arandia/">
+    <img align="left" alt="Samuel Arandia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/arandia_samuela">
+    <img align="left" alt="Samuel Arandia | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/samuela_arandia/">
+    <img align="left" alt="Samuel Arandia| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+    <a href="https://www.facebook.com/samuela.arandia/">
+    <img align="left" alt="Samuel Arandia | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/facebook.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:samuelarandia@gmail.com">
+    <img align="left" alt="Samuel Arandia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
 <!--
 **samuelArandia/samuelarandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
