@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/samuel-arandia/">
     <img align="left" alt="Samuel Arandia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/arandia_samuela">
+  <a href="https://twitter.com/arandia_samuel">
     <img align="left" alt="Samuel Arandia | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:samuelarandia@gmail.com">
