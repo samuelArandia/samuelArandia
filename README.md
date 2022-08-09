@@ -27,7 +27,7 @@
     <img align="left" alt="Samuel Arandia | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:samuelarandia@gmail.com">
-    <img align="left" alt="Samuel Arandia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gmail.svg" />
+    <img align="left" alt="Samuel Arandia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
 <!--
