@@ -20,7 +20,7 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/samuel-arandia)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" />](https://twitter.com/arandia_samuel)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" />](https://instagram.com/samuel_arandia)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/gmail.svg" height="40em" align="center" />](mailto:samuelarandia@gmail.com)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/facebbok.svg" height="40em" align="center" />](https://facebook.com/samuel.arandia)
 
 
 <!--
