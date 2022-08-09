@@ -16,7 +16,7 @@
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
 ## 📫 You can find me too:
-  <a href="https://www.instagram.com/samuela_arandia/">
+  <a href="https://www.instagram.com/samuel_arandia/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
