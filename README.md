@@ -5,7 +5,7 @@
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, Python.
 - **Libraries & Frameworks →** Vue.js, Django, Django Rest.
-- **Tools & Platforms →** Git, Firebase, VsCode, Pug, Vuetify, Boostrap.
+- **Tools & Platforms →** Git, Firebase, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL.
  
 <h3>💻 About Me </h3>
 
@@ -20,6 +20,8 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/samuel-arandia)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" />](https://twitter.com/arandia_samuel)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" />](https://instagram.com/samuel_arandia)
+<a href="mailto:samuelarandia@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 
 
 <!--
