@@ -17,7 +17,7 @@
 
 ## 📫 You can find me too:
   <a href='https://www.facebook.com/samuel.arandia/' width="24px" target='_blank'>
-    <img src='./assets/social-   media/facebook.svg' alt='Samuel Arandia | Facebook '/>
+    <img src='src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Facebook.svg"' alt='Samuel Arandia | Facebook '/>
 </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/samuel_arandia/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
