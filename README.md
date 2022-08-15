@@ -1,5 +1,5 @@
 ### Hi there, I'm Samuel 👋
- <h2>I am a systems analysis and programming technician  and Frontend developer</h2>
+ <h2>I am a systems analysis and programming technician</h2>
  
 ### My skills ⚡
 
