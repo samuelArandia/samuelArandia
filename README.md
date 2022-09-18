@@ -1,6 +1,8 @@
 ### Hi there, I'm Samuel 👋
  <h2>I am a systems analysis and programming technician</h2>
  
+<h3>I am a proactive and responsible person, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking. I am looking for a challenging and dynamic position to continue adding experience and knowledge. </h3>
+
 ### My skills ⚡
 
 - **Languages →** HTML, CSS, SCSS, JavaScript, Python.
@@ -11,7 +13,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; I keep myself in constant learning.
+- 🎓 &nbsp; I keep myself in constant learning in platzi.
 
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
