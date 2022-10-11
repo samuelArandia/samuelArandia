@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuel Arandia👋
  <h2>I am a systems analysis and programming technician</h2>
  
-I am a proactive and responsible person, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking. I am looking for a challenging and dynamic position to continue adding experience and knowledge.
+Software Developer, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking. I am looking for a challenging and dynamic position to continue adding experience and knowledge.
 
 ### My skills ⚡
 
