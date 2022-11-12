@@ -17,6 +17,8 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
+-📝 See my <a href='https://drive.google.com/file/d/1cSYAWENGx7xBDv369pYlYbjlWnAxP9sK/view?usp=sharing'> Cv </a> to get more info;
+
 ## 📫 You can find me too:
   <a href="https://www.instagram.com/samuel_arandia/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
