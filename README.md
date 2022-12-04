@@ -17,7 +17,7 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
--📝 See my <a href='https://drive.google.com/file/d/1cSYAWENGx7xBDv369pYlYbjlWnAxP9sK/view?usp=sharing'> Curriculum Vitae </a> to get more info
+-📝 See my <a href='https://drive.google.com/file/d/1HOzfNFePgtimB2pfdCAOoc_t9QO8RQ9u/view?usp=sharing'> Curriculum Vitae </a> to get more info
 
 -🔭 You can visit my <a href='https://samuelarandia.com'> Portfolio </a>
 
