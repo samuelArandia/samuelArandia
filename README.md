@@ -12,7 +12,7 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; I keep myself in constant learning in platzi.
+- 🎓 &nbsp; I keep myself in constant learning.
 
 - ✍️ &nbsp; Pursuing database as hobbies/side hustles.
 
