@@ -1,13 +1,12 @@
 ### Hi there, I'm Samuel Arandia👋
- <h2>I am a systems analysis and programming technician</h2>
  
 Software Developer, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking. I am looking for a challenging and dynamic position to continue adding experience and knowledge.
 
 ### My skills ⚡
 
-- **Languages →** HTML, CSS, SCSS, JavaScript, Python.
-- **Libraries & Frameworks →** Vue.js, Django, Django Rest.
-- **Tools & Platforms →** Git, Firebase, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL.
+- **Languages →** HTML, CSS, JavaScript, Python, TypeScript.
+- **Libraries & Frameworks →** Vue.js, React, NestJs, Django, Django Rest.
+- **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, Etc.
  
 <h3>💻 About Me </h3>
 
