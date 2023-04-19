@@ -8,9 +8,9 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 - **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, Etc.
 
 <h3>💻 About Me </h3>
-🤔 I love exploring new technologies and developing innovative software solutions.
-🎓 I'm always seeking opportunities to learn and stay up-to-date on the latest trends and tools in the industry.
-🌱 Currently, I'm investing my free time in learning about new technology or programming language you're studying to further expand my skills and knowledge in the field of programming.
+🤔 I love exploring new technologies and developing innovative software solutions.<br>
+🎓 I'm always seeking opportunities to learn and stay up-to-date on the latest trends and tools in the industry.<br>
+🌱 Currently, I'm investing my free time in learning about new technology or programming language you're studying to further expand my skills and knowledge in the field of programming.<br>
 
 -📝 See my <a href='https://drive.google.com/file/d/1HOzfNFePgtimB2pfdCAOoc_t9QO8RQ9u/view?usp=sharing'> Curriculum Vitae </a> to get more info
 
