@@ -1,6 +1,7 @@
 ### Hi there, I'm Samuel Arandia👋
  
-Software Developer, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking. I am looking for a challenging and dynamic position to continue adding experience and knowledge.
+Software Developer, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking.
+<!-- I am looking for a challenging and dynamic position to continue adding experience and knowledge. -->
 
 ### My skills ⚡
 - **Languages →** HTML, CSS, JavaScript, Python, TypeScript.
