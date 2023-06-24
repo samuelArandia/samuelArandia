@@ -4,9 +4,9 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 <!-- I am looking for a challenging and dynamic position to continue adding experience and knowledge. -->
 
 ### My skills ⚡
-- **Languages →** HTML, CSS, JavaScript, Python, TypeScript.
-- **Libraries & Frameworks →** Vue.js, React, NestJs, Django. 
-- **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, Etc.
+- **Languages →** JavaScript, Python, TypeScript, Java
+- **Libraries & Frameworks →** Vue.js, React, Angular, NestJs, Django, Node js, Spring. 
+- **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, PrimeNg
 
 ### About Me 💻 
 🤔 I love exploring new technologies and developing innovative software solutions.<br>
