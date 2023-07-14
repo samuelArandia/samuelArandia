@@ -6,7 +6,7 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 ### My skills ⚡
 - **Languages →** JavaScript, Python, TypeScript, Java
 - **Libraries & Frameworks →** Vue.js, React, Angular, NestJs, Django, Node js, Spring. 
-- **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, PrimeNg
+- **Tools & Platforms →** Git, VsCode, Pug, Vuetify, Boostrap, Postman, PostgreSQL, Material Ui, Fluent ui, PrimeNg, Azure
 
 ### About Me 💻 
 🤔 I love exploring new technologies and developing innovative software solutions.<br>
@@ -20,7 +20,7 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 
 ## 📫 You can also find me or write to me:
   <a href="https://www.instagram.com/samuel_arandia/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Samue Arandia | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samuel-arandia/">
     <img align="left" alt="Samuel Arandia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
