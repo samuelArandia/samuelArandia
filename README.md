@@ -16,7 +16,7 @@ Software Developer, trained to build on foundations and fundamentals. My skills 
 
 -📝 See my <a href='https://drive.google.com/file/d/1J-t-qPOVP2hqq85CteBTIR49wG7bqWLn/view?usp=sharing' target="_blank"> Curriculum Vitae </a> to get more info
 
--🔭 You can visit my <a href='https://samuelarandia.com' target="_blank"> Portfolio </a>
+-🔭 You can visit my <a href='https://samuelarandia.vercel.app/' target="_blank"> Portfolio </a>
 
 ## 📫 You can also find me or write to me:
   <a href="https://www.instagram.com/samuel_arandia/">
