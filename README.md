@@ -1,7 +1,6 @@
 ### Hi there, I'm Samuel Arandia👋
  
-Software Developer, trained to build on foundations and fundamentals. My skills include a focus on achieving objectives, creative problem solving, teamwork, written communication and logical thinking.
-<!-- I am looking for a challenging and dynamic position to continue adding experience and knowledge. -->
+Professional in system analysis and development. Currently pursuing a Bachelor's degree in Computer Science and Informatics at University Andrés Bello. Specialized in key technologies such as Java, TypeScript, Nest.js, and Angular. My career has focused on web application development, microservices architecture, and agile methodologies. I am known for being proactive, self-taught, and disciplined, qualities that complement my commitment to excellence in the technological field. 
 
 ### My skills ⚡
 - **Languages →** JavaScript, TypeScript, Java and Python
